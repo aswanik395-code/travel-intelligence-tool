@@ -1,0 +1,6 @@
+{
+  "base_url": "https://api.restcountries.com/countries/v5",
+  "api_key_env": "COUNTRY_API_KEY",
+  "timeout_seconds": 10,
+  "response_fields": "names.common,names.official,codes.alpha_3,capitals,currencies,population,languages,region,subregion,borders"
+}

@@ -1,0 +1,9 @@
+TRAVEL SNAPSHOT: Iceland
+==================================================
+Official name : Iceland
+Capital       : Reykjavik
+Currency      : Icelandic króna (kr) [ISK]
+Population    : 396,500
+Languages     : Icelandic
+Region        : Europe (Northern Europe)
+Neighbours    : None (island or no land borders)

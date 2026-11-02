@@ -1,0 +1,9 @@
+TRAVEL SNAPSHOT: Japan
+==================================================
+Official name : Japan
+Capital       : Tokyo
+Currency      : Japanese yen (¥) [JPY]
+Population    : 122,650,000
+Languages     : Japanese
+Region        : Asia (Eastern Asia)
+Neighbours    : None (island or no land borders)

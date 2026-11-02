@@ -1,0 +1,52 @@
+--- 'Japan': OK ---
+TRAVEL SNAPSHOT: Japan
+==================================================
+Official name : Japan
+Capital       : Tokyo
+Currency      : Japanese yen (¥) [JPY]
+Population    : 122,650,000
+Languages     : Japanese
+Region        : Asia (Eastern Asia)
+Neighbours    : None (island or no land borders)
+
+--- 'Brazil': OK ---
+TRAVEL SNAPSHOT: Brazil
+==================================================
+Official name : Federative Republic of Brazil
+Capital       : Brasília
+Currency      : Brazilian real (R$) [BRL]
+Population    : 214,211,951
+Languages     : Portuguese
+Region        : Americas (South America)
+Neighbours    : Argentina, Bolivia, Colombia, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela
+
+--- 'Iceland': OK ---
+TRAVEL SNAPSHOT: Iceland
+==================================================
+Official name : Iceland
+Capital       : Reykjavik
+Currency      : Icelandic króna (kr) [ISK]
+Population    : 396,500
+Languages     : Icelandic
+Region        : Europe (Northern Europe)
+Neighbours    : None (island or no land borders)
+
+--- 'Bhutan': OK ---
+TRAVEL SNAPSHOT: Bhutan
+==================================================
+Official name : Kingdom of Bhutan
+Capital       : Thimphu
+Currency      : Bhutanese ngultrum (Nu.) [BTN]; Indian rupee (₹) [INR]
+Population    : 790,718
+Languages     : Dzongkha
+Region        : Asia (Southern Asia)
+Neighbours    : China, India
+
+--- 'Atlantis': HANDLED ERROR ---
+Error: No country found matching 'Atlantis'. Check the spelling and try again.
+
+--- '12345': HANDLED ERROR ---
+Error: '12345' doesn't look like a country name (use letters only).
+
+--- '': HANDLED ERROR ---
+Error: Please enter a country name.

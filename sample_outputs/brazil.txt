@@ -1,0 +1,9 @@
+TRAVEL SNAPSHOT: Brazil
+==================================================
+Official name : Federative Republic of Brazil
+Capital       : Brasília
+Currency      : Brazilian real (R$) [BRL]
+Population    : 214,211,951
+Languages     : Portuguese
+Region        : Americas (South America)
+Neighbours    : Argentina, Bolivia, Colombia, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela
