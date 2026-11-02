@@ -1,6 +1,5 @@
 # Obstacle Log
 
-> Edit this with your own experience, especially anything you hit when running against the live API.
 
 | # | Obstacle | Solution |
 |---|----------|----------|
